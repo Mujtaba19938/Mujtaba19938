@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mujtaba19938
+- 👋 Hi, I’m Mujtaba Khanani
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Devlopment / Javascript
 - 💞️ I’m looking to collaborate with a high tech company
